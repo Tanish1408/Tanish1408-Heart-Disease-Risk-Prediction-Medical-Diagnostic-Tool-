@@ -1,0 +1,15 @@
+# Ignore the virtual environment
+venv/
+env/
+.env
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore database (optional, but good practice for beginners)
+db.sqlite3
+
+# Ignore Mac system files
+.DS_Store
