@@ -1,0 +1,14 @@
+{
+    "builds": [
+        {
+            "src": "HeartHealth/wsgi.py",
+            "use": "@vercel/python"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "HeartHealth/wsgi.py"
+        }
+    ]
+}
