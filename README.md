@@ -28,13 +28,12 @@ The model was trained on the **Cleveland Heart Disease Dataset** (UCI Repository
 ---
 
 ### **📸 Screenshots**
-| Clinical Dashboard | Risk Assessment |
-| :---: | :---: |
-| <img width="1470" height="812" alt="Screenshot 2026-02-08 at 3 31 19 PM" src="https://github.com/user-attachments/assets/79d3de5d-6628-417d-a237-0ad4887150f3" />
- | <img width="1470" height="813" alt="Screenshot 2026-02-08 at 3 33 11 PM" src="https://github.com/user-attachments/assets/482c4d2d-ad29-4684-8ac1-364a514d62cb" />
-| <img width="1321" height="264" alt="Screenshot 2026-02-08 at 3 43 25 PM" src="https://github.com/user-attachments/assets/94a54bad-52f0-4792-bee1-bece816ae564" />
- | <img width="1314" height="264" alt="Screenshot 2026-02-08 at 3 42 31 PM" src="https://github.com/user-attachments/assets/9881ad4f-bab7-41bb-8f79-7fa743134887" />
 
+| 🚨 High Risk Diagnosis (Web Interface) | ✅ Healthy Diagnosis (Web Interface) |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/79d3de5d-6628-417d-a237-0ad4887150f3" alt="High Risk UI" width="100%"> | <img src="https://github.com/user-attachments/assets/482c4d2d-ad29-4684-8ac1-364a514d62cb" alt="Healthy UI" width="100%"> |
+| **⚠️ High Risk Probability (82.97%)** | **⚖️ Moderate Risk Probability (64.14%)** |
+| <img src="https://github.com/user-attachments/assets/94a54bad-52f0-4792-bee1-bece816ae564" alt="High Risk Console" width="100%"> | <img src="https://github.com/user-attachments/assets/9881ad4f-bab7-41bb-8f79-7fa743134887" alt="Moderate Risk Console" width="100%"> |
 
 ---
 
